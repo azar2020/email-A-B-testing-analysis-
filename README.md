@@ -200,7 +200,7 @@ Both approaches agree: **Variant B wins.**
 
 ### Page 3 — Action Plan
  
-<img width="1214" height="755" alt="image" src="https://github.com/user-attachments/assets/aec6e24f-fd60-4c41-b6c0-1f661e10947a" />
+<img width="1301" height="736" alt="image" src="https://github.com/user-attachments/assets/855c1df4-449b-43de-bb29-3ab7608e0a74" />
 
 ### 🏆 Winner: Variant B — Personalized Subject Line
 
