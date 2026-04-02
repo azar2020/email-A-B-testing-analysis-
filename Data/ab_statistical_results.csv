@@ -1,0 +1,4 @@
+metric,variant_a,variant_b,lift_pct,p_value,significant,confidence
+Open Rate,0.2186,0.2678,22.5,0.0,Yes,100.0
+Conversion Rate,0.001,0.0028,180.0,0.0388,Yes,96.1
+Revenue per User,0.04,0.15,275.0,0.0125,Yes,98.8
