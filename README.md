@@ -88,7 +88,8 @@ email-ab-testing-analysis/
 **Notebook:** `01_eda_analysis.ipynb`
 
 ### Page 1 — Test Overview
- <img width="1302" height="739" alt="image" src="https://github.com/user-attachments/assets/101cf20a-4649-4c59-8a02-be36503bb5e9" />
+<img width="1301" height="736" alt="image" src="https://github.com/user-attachments/assets/7f6bb12e-f8ff-46f0-9d32-b209b9939905" />
+
 
 Key EDA findings:
 
