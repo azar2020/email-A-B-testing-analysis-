@@ -275,5 +275,4 @@ pip install pandas numpy scipy statsmodels matplotlib seaborn
 ## 👤 Author
 
 **Azar Taheri**
-Data Analyst | Marketing Analytics | A/B Testing | MMM
 [LinkedIn](https://linkedin.com/in/azar-taheri) 
