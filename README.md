@@ -39,30 +39,7 @@ The analysis covers the full A/B testing lifecycle:
 
 ---
 
-## 📁 Repository Structure
 
-```
-email-ab-testing-analysis/
-│
-├── data/
-│   ├── email_ab_test_data.csv        # Raw individual subscriber data (10K rows)
-│   ├── ab_daily_summary.csv          # Daily metrics by variant
-│   ├── ab_segment_summary.csv        # Results by customer segment
-│   └── ab_statistical_results.csv    # Statistical test results
-│
-├── notebooks/
-│   ├── 01_eda_analysis.ipynb         # Exploratory data analysis
-│   └── 02_ab_test_analysis.ipynb     # Statistical testing & recommendation
-│
-├── screenshots/
-│   ├── page1_test_overview.png
-│   ├── page2_statistical_results.png
-│   └── page3_business_recommendation.png
-│
-└── README.md
-```
-
----
 
 ## 📦 Dataset
 
@@ -249,21 +226,7 @@ Both approaches agree: **Variant B wins.**
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository
-2. Install dependencies:
-```bash
-pip install pandas numpy scipy statsmodels matplotlib seaborn
-```
-3. Open Google Colab or Jupyter Notebook
-4. Upload `email_ab_test_data.csv` to your environment
-5. Run notebooks in order:
-```
-01_eda_analysis.ipynb → 02_ab_test_analysis.ipynb
-```
-
----
 
 ## 🔗 Related Projects
 
